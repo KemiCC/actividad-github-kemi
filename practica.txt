@@ -1,0 +1,1 @@
+GitHub sirve para almacenar, compartir y controlar versiones de código, permitiendo que varios desarrolladores trabajen simultáneamente en un mismo proyecto de forma organizada y segura.
