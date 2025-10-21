@@ -1,0 +1,1 @@
+GitHub sirve para trabajar en proyectos de programación colaborativos, permitiendo guardar, compartir y controlar versiones del código. Facilita el trabajo en equipo, la revisión de cambios y la organización de tareas en un solo lugar.
